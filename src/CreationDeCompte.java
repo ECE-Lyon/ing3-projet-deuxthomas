@@ -28,7 +28,7 @@ public class CreationDeCompte extends JFrame {
 
     public CreationDeCompte() throws HeadlessException {
 
-        super("Bienvenue, creer un compte !");
+        super("Bienvenue, creer un compte !!");
         this.setVisible(true);
         this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         this.setSize(900,900);
